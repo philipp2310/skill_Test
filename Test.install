@@ -1,0 +1,22 @@
+{
+	"name": "Test",
+	"speakableName": "test",
+	"version": "0.0.1",
+	"icon": "undefined",
+	"category": "undefined",
+	"author": "philipp2310",
+	"maintainers": [],
+	"desc": "test",
+	"aliceMinVersion": "1.0.0-rc3",
+	"pipRequirements": [
+		""
+	],
+	"systemRequirements": [
+		""
+	],
+	"conditions": {
+		"lang": [
+			"en"
+		]
+	}
+}
